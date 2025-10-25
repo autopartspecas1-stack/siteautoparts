@@ -6,7 +6,7 @@ interface WhatsAppCTAProps {
 }
 
 export default function WhatsAppCTA({ text, message }: WhatsAppCTAProps) {
-  const baseUrl = "https://wa.me/5599981905560";
+  const baseUrl = "https://wa.me/5599991685337";
   const encodedMessage = message
     ? `?text=${encodeURIComponent(message)}`
     : "?text=Olá!+Vi+o+site+da+AutoParts+e+gostaria+de+um+orçamento";

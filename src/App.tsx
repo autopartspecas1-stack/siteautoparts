@@ -14,7 +14,7 @@ removeFloating();
 const observer = new MutationObserver(removeFloating);
 observer.observe(document.body, { childList: true, subtree: true });
 
-const WHATSAPP_URL = "https://wa.me/5599981905560?text=Olá!+Vi+o+site+da+AutoParts+e+gostaria+de+um+orçamento";
+const WHATSAPP_URL = "https://wa.me/5599991685337?text=Olá!+Vi+o+site+da+AutoParts+e+gostaria+de+um+orçamento";
 
 function App() {
   return (
