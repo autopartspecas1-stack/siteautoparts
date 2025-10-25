@@ -229,6 +229,12 @@ function App() {
               </div>
 
               <div>
+                <h3 className="text-xl font-montserrat font-bold mb-2 text-autoparts-red uppercase tracking-wide">Telefones</h3>
+                <p className="text-autoparts-silver font-open-sans">(99) 3017-2022</p>
+                <p className="text-autoparts-silver font-open-sans">(99) 9168-5337</p>
+              </div>
+
+              <div>
                 <h3 className="text-xl font-montserrat font-bold mb-2 text-autoparts-red uppercase tracking-wide">Instagram</h3>
                 <a
                   href="https://www.instagram.com/autopartspecas/"
